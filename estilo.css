@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+    width: 250px;
+    align-items: center;
+    margin-top: 25px;
+}
+form input {
+    font-style: normal;
+    font-size: 25px;
+    line-height: 17px;
+    display:flex
+    align-items: center;
+    margin-top: 15px;
+}
+button {
+    margin-top: 10px;
+    width: 214px;
+    height: 40px;
+    left: 97px;
+    top: 601px; 
+}
+    
